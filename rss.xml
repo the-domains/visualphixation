@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[visualphixation]]></title>
         <description><![CDATA[visualphixation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/visualphixation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 19:21:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 Nov 2015 19:34:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/visualphixation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ripsaw]]></title>
+            <description><![CDATA[<article><h1>Ripsaw</h1><p>Introducing the true twin Ripsaw Camber Rocker (CR). Like nothing you've ever ridden before, it goes everywhere and shreds anything. Our new CR Technology features amplified camber areas that are longer and deeper than our traditional Rocker Camber (RC) boards. This brings you twice the amount of camber while still retaining RC playfulness.</p><img src="http://www.neversummer.com/_photos/products/snowboards/ripsaw/ripsaw.jpg"></article>]]></description>
+            <link>http://www.neversummer.com/snowboards/ripsaw</link>
+            <guid isPermaLink="false">baded37e-160c-413e-a1d4-1493ff6736d5</guid>
+            <pubDate>Sun, 08 Nov 2015 19:34:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<article><h1>Test Post</h1><p>Testing out The Grid app post creation</p></article>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/visualphixation/test-post/index.html</link>
             <guid isPermaLink="false">4c00fffd-9f89-4ccf-8829-129d5a0d4a45</guid>
             <pubDate>Sun, 08 Nov 2015 19:21:22 GMT</pubDate>
         </item>
