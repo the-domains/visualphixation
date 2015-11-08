@@ -1,0 +1,23 @@
+name: visualphixation
+favicon: null
+layout_spectrum: 0.056553435511887074
+typography_spectrum: 0.0638492510188371
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7783210426568985
+  lightness: 0.9572298261336982
+  saturation: 0.3661515803541988
+  rhythmicContrast: 0.489088183734566
+purpose: []
